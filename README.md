@@ -1,6 +1,12 @@
 # MountOne
 Short description and motivation.
 
+単体での起動は、以下コマンドを実行してください。
+`cd spec/dummy && bin/rails s`
+
+また、`bundle install`や`rake`コマンドは、
+`spec/dummy`で実行してください。
+
 ## Usage
 How to use my plugin.
 
